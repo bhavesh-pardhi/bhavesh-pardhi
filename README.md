@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **bhaveshpardhi724@gmail.com**
 
-- ⚡ Fun fact - **still no one knows what i do 👀🔰**
+- ⚡ Fun fact - **still no one knows what i can do 👀🔰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
