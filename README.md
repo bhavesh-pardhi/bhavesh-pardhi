@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mediafire.com/view/pb6dgxyqtp3bhcy/20230129_125858.png)](https://www.instagram.com/bhavesh_pardhi_/)
+[![MasterHead](https://www.linkpicture.com/q/20230129_125858.png)](https://www.instagram.com/bhavesh_pardhi_/)
 <h1 align="center">Hi 👋, I'm Bhavesh</h1>
 <h3 align="center">WE DO WHAT WE WANT BECAUSE WE CAN..!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **bbh and pentesting projects**
 
-- 💬 Ask me about **anything related to h......🫣**
+- 💬 Ask me about **anything related to ......🫣**
 
 - 📫 How to reach me **bhaveshpardhi724@gmail.com**
 
