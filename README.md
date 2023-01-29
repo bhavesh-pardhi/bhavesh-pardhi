@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **(you know 🙈)**
 
-- 👯 I’m looking to collaborate on **bbh and pentesting projects**
-
 - 💬 Ask me about **anything related to ......🫣**
 
 - 📫 How to reach me **bhaveshpardhi724@gmail.com**
