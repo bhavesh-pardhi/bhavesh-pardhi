@@ -38,8 +38,32 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bhaveshpardhi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhaveshpardhi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh-pardhi&show_icons=true&locale=en&layout=compact" alt="bhavesh-pardhi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh-pardhi&show_icons=true&locale=en" alt="bhavesh-pardhi" /></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-pardhi&" alt="bhavesh-pardhi" /></p>
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh-pardhi\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhavesh-pardhi&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
