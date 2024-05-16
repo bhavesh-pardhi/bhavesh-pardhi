@@ -7,6 +7,7 @@
 <h3 align="center">WE DO WHAT WE WANT BECAUSE WE CAN..!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh-pardhi&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh-pardhi" /> </p>
 
