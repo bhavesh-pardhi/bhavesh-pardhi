@@ -2,20 +2,21 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<br><br>
-<br><br>
-<br><br>
+<br>
 
 <h1 align="center">Hi 👋, I'm Bhavesh</h1>
 <h3 align="center">WE DO WHAT WE WANT BECAUSE WE CAN..!</h3>
+<p align="center">Passionate about cybersecurity, particularly in penetration testing and ethical hacking, I am driven by a desire to make meaningful contributions in this dynamic field.</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh-pardhi&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh-pardhi" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=bhavesh-pardhi&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh-pardhi" /> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/bhavesh_pardhi_" target="blank"><img src="https://img.shields.io/twitter/follow/bhavesh_pardhi_?logo=twitter&style=for-the-badge" alt="bhavesh_pardhi_" /></a> </p>
+<br>
 
 - 🔭 I’m currently working on **bbh at (it's secret🤫)**
 
