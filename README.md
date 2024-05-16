@@ -8,14 +8,12 @@
 <h3 align="center">WE DO WHAT WE WANT BECAUSE WE CAN..!</h3>
 <p align="center">Passionate about cybersecurity, particularly in penetration testing and ethical hacking, I am driven by a desire to make meaningful contributions in this dynamic field.</p>
 
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
-
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=bhavesh-pardhi&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh-pardhi" /> 
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
 
 - 🔭 I’m currently working on **bbh at (it's secret🤫)**
