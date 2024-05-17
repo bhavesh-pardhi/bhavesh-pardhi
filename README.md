@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/bhavesh-pardhi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>  <a href="https://www.linkedin.com/in/bhavesh-pardhi-/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>  <a href="https://www.facebook.com/bhavesh.pardhi.0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40"></a>  <a href="https://www.instagram.com/bhavesh_pardhi_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"></a>  <a href="https://twitter.com/bhavesh_pardhi_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"></a>  <a href="https://codepen.io/bhavesh-pardhi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="40"></a>  <a href="https://stackoverflow.com/users/21103803"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="40"></a>  <a href="https://www.hackerrank.com/bhaveshpardhi724"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="40"></a>  <a href="https://www.snapchat.com/add/bhaveshpardhi0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg" alt="snapchat" height="40"></a>
+<a href="https://github.com/bhavesh-pardhi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>  <a href="https://www.linkedin.com/in/bhavesh-pardhi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>  <a href="https://www.facebook.com/bhavesh.pardhi.0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40"></a>  <a href="https://www.instagram.com/bhavesh_pardhi_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"></a>  <a href="https://twitter.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"></a>  <a href="https://codepen.io/bhavesh-pardhi"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="40"></a>  <a href="https://stackoverflow.com/users/21103803"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="40"></a>  <a href="https://www.hackerrank.com/bhaveshpardhi724"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="40"></a>  <a href="https://www.snapchat.com/add/bhaveshpardhi0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg" alt="snapchat" height="40"></a>
 
 </p>
 
@@ -52,7 +52,9 @@
  </div>
  <br><br>
 
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
@@ -60,6 +62,8 @@
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh-pardhi\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bhavesh-pardhi&theme=midnight-purple)](https://git.io/streak-stats)
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavesh-pardhi&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
 </div>
 
