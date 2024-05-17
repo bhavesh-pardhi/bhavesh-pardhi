@@ -66,9 +66,14 @@
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<div align="center">
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bhaveshpardhi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhaveshpardhi" /></a></p><br><br>
-
+<p>
+  <a href="https://www.buymeacoffee.com/bhaveshpardhi"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhaveshpardhi" /></a>
+</p><br><br>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/bhavesh-pardhi/bhavesh-pardhi/blob/main/.github/marquee.svg" />
+<br />
